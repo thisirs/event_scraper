@@ -1,4 +1,4 @@
-require '/home/sylvain/repositories/allocine/lib/allocine_parser'
+require 'allocine_parser'
 
 module EventScraper
 
